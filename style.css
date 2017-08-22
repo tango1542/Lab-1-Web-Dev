@@ -1,0 +1,61 @@
+p {
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  border-style: solid;
+
+}
+
+#favorite_band {
+color: orange;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+
+.favorite_section {
+border: 10px;
+border-style: groove;
+border-color: green;
+border-radius: 20px;
+}
+
+.important {
+  color: red;
+}
+
+h3 {
+  color: purple;
+  background-color: gray;
+  border-style: dashed;
+  border-color: yellow;
+}
+
+ul {
+  color: yellow;
+  background-color: green;
+  border-style: double;
+  border-width: 20px;
+  border-color: pink;
+}
+
+li {
+  color:darkblue;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+/*This is CSS comment*/
